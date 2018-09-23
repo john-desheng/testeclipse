@@ -21,6 +21,11 @@ public class Demo2 {
 		
 		
 		//jiayiglong xiede fangfa 
+		
+		
+		
+		
+		//方涛添加的内容
 	}
 
 }
