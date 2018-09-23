@@ -14,6 +14,10 @@ public class Demo2 {
 	}
 	
 	
-	
+	public void test2(){
+		
+		
+		//jiayiglong xiede fangfa 
+	}
 
 }
