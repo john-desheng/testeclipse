@@ -12,7 +12,10 @@ public class Demo2 {
 		//xinzeng
 		System.out.println("nihao");
 	}
+	public void test(){
+	//fangtao xiede fangfa 
 	
+	}
 	
 	
 
