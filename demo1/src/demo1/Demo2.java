@@ -20,21 +20,7 @@ public class Demo2 {
 	public void test2(){
 		
 		
-		//jiayiglong xiede fangfa 
 		
-		
-		
-		
-		//璐惧簲榫欐湁娣诲姞鐨勫唴瀹�
-		//fangtao dexiugai
-		
-		
-		
-		
-
-		//鏂规稕娣诲姞鐨勫唴瀹?
-
-		//jiayinglong 9.24tianjia
 
 	}
 
